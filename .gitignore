@@ -1,0 +1,5 @@
+logs
+src/agents/__pycache__
+src/agents/models/__pycache__
+saves/*
+!saves/.gitkeep
